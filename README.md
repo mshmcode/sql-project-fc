@@ -16,54 +16,59 @@ Project tasks:
 
 2. Create a "Manufacturers" table with the following columns:
 
-manufacturer id
-The manufacturer's name
-manufacturer's address
-manufacturer's tax identification number
-date of signing the contract with the manufacturer
+manufacturer id, 
+the manufacturer's name, 
+manufacturer's address, 
+manufacturer's tax identification number, 
+date of signing the contract with the manufacturer.
+
 Set an appropriate "constraint" for each column
 
 3. Create a "Products" table with columns:
 
-product id
-manufacturer id
-Product name
-product description
-net purchase price
-gross purchase price
-net selling price
-gross selling price
-VAT percentage of sales
+product id, 
+manufacturer id, 
+product name, 
+product description, 
+net purchase price, 
+gross purchase price, 
+net selling price, 
+gross selling price, 
+VAT percentage of sales.
+
 Set an appropriate "constraint" for each column
 
 4. Create an "Orders" table with columns:
 
-order id
-client id
-product id
-date of order
+order id, 
+client id, 
+product id, 
+date of order.
+
 Set an appropriate "constraint" for each column
 
 5. Create a "Customers" table with columns:
 
-client id
-name
-last name
-address
+client id, 
+name, 
+last name, 
+address.
+
 Set an appropriate "constraint" for each column
  
 6. Join tables together using foreign keys:
 
-Products – Manufacturers
-Orders – Products
-Orders - Customers
+Products – Manufacturers, 
+Orders – Products, 
+Orders - Customers, 
 
 7. Complete each table with data according to:
 
-"Producers" table – 4 items
-"Products" table – 20 items
-"Orders" table – 10 items
-"Customers" table – 10 items
+"Producers" table – 4 items, 
+"Products" table – 20 items, 
+"Orders" table – 10 items, 
+"Customers" table – 10 items.
+
 8. Display all products with all data from the manufacturer that is in position 1 in the "Manufacturers" table
 
 9. Sort these products alphabetically by name
@@ -72,8 +77,9 @@ Orders - Customers
 
 11. View two product groups from this manufacturer:
 
-Half of the cheapest are the group: "Cheap"
-The remaining ones are the group: "Dear"
+Half of the cheapest are the group: "Cheap", 
+The remaining ones are the group: "Dear".
+
 12. View ordered products by displaying only their name
 
 13. Display all products ordered - limiting the display to 5 items
