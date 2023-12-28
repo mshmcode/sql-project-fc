@@ -85,9 +85,9 @@ Enjoy!
 -- 14. Calculate the total value of all orders
 -- 
 -- 15. View all orders with product name, sorting them by date from oldest to newest
-
-16. Check whether you have completed all the data in the products table - display the items for which data is missing
-
-17. View the most frequently sold product and its price
-
-18. Find the day on which the most orders were placed
+-- 
+-- 16. Check whether you have completed all the data in the products table - display the items for which data is missing
+-- 
+-- 17. View the most frequently sold product and its price
+-- 
+-- 18. Find the day on which the most orders were placed
