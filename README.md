@@ -3,12 +3,10 @@ Hi all,
 There's my final project for SQL in Data Science bootcamp.
 
 This project is the result of completing a 100-hour bootcamp at the Future Collars training company in Poland.
-I used MySQL to implement the project.
+I used MySQL to implement the project. The project and notes are in Polish, so I'm attaching the scope of activities below.
 I didn't use ChatGPT or Bard ;)
 
 Enjoy!
-
-##########
 
 Project tasks:
 
